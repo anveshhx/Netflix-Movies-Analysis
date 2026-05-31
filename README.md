@@ -51,7 +51,7 @@ Netflix-Movies-Analysis/
 ## Screenshots
 
 ```markdown
-![Genre Analysis]screenshots/Screenshot 2026-06-01 013322.png
+![Genre Analysis](screenshots/screenshots/highestvote.png)
 ![Popularity Analysis](screenshots/Screenshot 2026-06-01 013322.png)
 ![Release Year Analysis](screenshots/release_year_analysis.png)
 ```
