@@ -45,7 +45,7 @@ Netflix-Movies-Analysis/
 ├── README.md
 ├── Netflix_Movies_Analysis.ipynb
 ├── mymoviedb.csv
-└── screenshots/
+└── screenshots
 ```
 
 ## Screenshots
