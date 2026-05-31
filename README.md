@@ -1,9 +1,3 @@
-
-![test](screenshots/highestvote.png)
-
-
-Here's a crisp, professional README you can directly paste into GitHub:
-
 # 🎬 Netflix Movies Analysis
 
 ## Overview
@@ -54,12 +48,17 @@ Netflix-Movies-Analysis/
 
 ## Screenshots
 
-```markdown
+### Highest Vote Analysis
 ![Highest Vote Analysis](screenshots/highestvote.png)
+
+### Popularity of Genre Analysis
 ![Popularity of Genre Analysis](screenshots/mostfreqgenre.png)
+
+### Most Viewed Year Analysis
 ![Most Viewed Year Analysis](screenshots/mostviewedyear.png)
-![Highest and Lowest freq Analysis](screenshots/low-highpopularity.png)
-```
+
+### Highest and Lowest Popularity Analysis
+![Highest and Lowest Popularity Analysis](screenshots/low-highpopularity.png)
 
 ## Conclusion
 
