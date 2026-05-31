@@ -1,3 +1,7 @@
+
+![test](screenshots/highestvote.png)
+
+
 Here's a crisp, professional README you can directly paste into GitHub:
 
 # 🎬 Netflix Movies Analysis
