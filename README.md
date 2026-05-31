@@ -52,9 +52,9 @@ Netflix-Movies-Analysis/
 
 ```markdown
 ![Highest Vote Analysis](screenshots/highestvote.png)
-![Popularity of Genre Analysis](screenshots/most freq genre.png)
+![Popularity of Genre Analysis](screenshots/mostfreqgenre.png)
 ![Most Viewed Year Analysis](screenshots/mostviewedyear.png)
-![Highest and Lowest freq Analysis](screenshots/low-high popularity.png)
+![Highest and Lowest freq Analysis](screenshots/low-highpopularity.png)
 ```
 
 ## Conclusion
