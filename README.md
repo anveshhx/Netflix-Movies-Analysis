@@ -51,10 +51,10 @@ Netflix-Movies-Analysis/
 ## Screenshots
 
 ```markdown
-![Genre Analysis](screenshots/highestvote.png)
-![Popularity Analysis](screenshots/most freq genre.png)
+![Highest Vote Analysis](screenshots/highestvote.png)
+![Popularity of Genre Analysis](screenshots/most freq genre.png)
 ![Release Year Analysis](screenshots/mostviewedfilm.png)
-![Release Year Analysis](screenshots/mostviewedfilm.png)
+![Release Year Analysis](screenshots/low-high popularity.png)
 ```
 
 ## Conclusion
