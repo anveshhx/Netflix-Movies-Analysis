@@ -4,6 +4,11 @@
 
 This project analyzes a Netflix movies dataset to uncover trends in genres, popularity, ratings, and movie releases. The goal is to extract meaningful insights through data analysis and visualization.
 
+## Note
+
+If GitHub is unable to preview the notebook or dataset, please download the `.ipynb` and `.csv` files and open them locally to view the complete analysis and data.
+
+
 ## Questions Answered
 
 * What is the most frequent genre of movies released on Netflix?
