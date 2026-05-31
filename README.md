@@ -50,10 +50,8 @@ Netflix-Movies-Analysis/
 
 ## Screenshots
 
-Add your visualizations here:
-
 ```markdown
-![Genre Analysis](screenshots/genre_analysis.png)
+![Genre Analysis]screenshots/Screenshot 2026-06-01 013322.png
 ![Popularity Analysis](screenshots/popularity_analysis.png)
 ![Release Year Analysis](screenshots/release_year_analysis.png)
 ```
